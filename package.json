@@ -1,0 +1,16 @@
+{
+  "name": "atom-lisp2js-preview",
+  "main": "./lib/atom-lisp2js-preview",
+  "version": "0.0.0",
+  "description": "lisp2js preview",
+  "activationCommands": {
+    "atom-workspace": "atom-lisp2js-preview:toggle"
+  },
+  "repository": "https://github.com/atom/atom-lisp2js-preview.js",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
