@@ -1,7 +1,7 @@
 {
   "name": "atom-lisp2js-preview",
   "main": "./lib/atom-lisp2js-preview",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "lisp2js preview",
   "activationCommands": {
     "atom-workspace": "lisp2js-compile"
@@ -12,7 +12,7 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
-      "lisp2js" : "latest",
-      "js-beautify" : "latest"
+    "lisp2js": "latest",
+    "js-beautify": "latest"
   }
 }
