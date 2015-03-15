@@ -1,2 +1,5 @@
 (def x 12)
 (def y 20)
+(def z 30)
+(def add (a b)
+    (+ a b))
