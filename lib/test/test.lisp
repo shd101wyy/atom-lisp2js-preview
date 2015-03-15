@@ -3,3 +3,6 @@
 (def z 30)
 (def add (a b)
     (+ a b))
+(defmacro test (var-name var-val)
+    `(def ~var-name ~var-val))
+(test m 1)
